@@ -1,2 +1,3 @@
-# ImageCaptionGenerator
-Generate captions for images using deep learning models CNN and LSTM architectures
+# ImageCaptionGenerators
+## Generate captions for images using deep learning models CNN and LSTM architectures
+ - VGG16+LSTM
