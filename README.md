@@ -3,3 +3,7 @@
  - VGG16+LSTM
  - EfficientNet B3+LSTM
  - ResNet50+LSTM
+
+# Datasets:
+ - Flicker8k
+ - Flicker30k
