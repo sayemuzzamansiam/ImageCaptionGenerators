@@ -7,3 +7,7 @@
 # Datasets:
  - Flicker8k
  - Flicker30k
+
+# Want To Build Intuitaion on How CNN Works?
+## Read This: 
+[A Visual Introduction to Convolutional Neural Networks](https://sayemuzzamansiam.medium.com/a-visual-introduction-to-convolutional-neural-networks-123d6621b891)
